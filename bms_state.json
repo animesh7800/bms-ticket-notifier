@@ -1,5 +1,29 @@
 {
   "shows": {
+    "PRHN|254276|20260806|EXECUTIVE": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "05:00 PM",
+      "date": "20260806",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "3"
+    },
+    "PRHN|254299|20260806|EXECUTIVE": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "08:00 PM",
+      "date": "20260806",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "3"
+    },
+    "PRHN|254278|20260806|EXECUTIVE": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "11:00 PM",
+      "date": "20260806",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "3"
+    },
     "PRHN|254266|20260805|EXECUTIVE": {
       "venue": "Prasads Multiplex: Hyderabad",
       "time": "04:45 PM",
@@ -46,7 +70,7 @@
       "date": "20260805",
       "cat": "RECLINER",
       "price": "350.00",
-      "status": "3"
+      "status": "2"
     },
     "PVUM|27770|20260805|CLASSIC": {
       "venue": "PVR: Musarambagh, Hyderabad",
