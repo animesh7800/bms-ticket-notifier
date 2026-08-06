@@ -1,5 +1,126 @@
 {
-  "shows": {},
+  "shows": {
+    "AMBH|116033|20260806|PLATINUM": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "04:05 PM",
+      "date": "20260806",
+      "cat": "PLATINUM",
+      "price": "350.00",
+      "status": "0"
+    },
+    "AMBH|116033|20260806|GOLD": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "04:05 PM",
+      "date": "20260806",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "3"
+    },
+    "AMBH|116033|20260806|LOUNGERS": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "04:05 PM",
+      "date": "20260806",
+      "cat": "LOUNGERS",
+      "price": "295.00",
+      "status": "3"
+    },
+    "AMBH|116182|20260806|PLATINUM": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "11:00 PM",
+      "date": "20260806",
+      "cat": "PLATINUM",
+      "price": "350.00",
+      "status": "0"
+    },
+    "AMBH|116182|20260806|GOLD": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "11:00 PM",
+      "date": "20260806",
+      "cat": "GOLD",
+      "price": "295.00",
+      "status": "3"
+    },
+    "AMBH|116182|20260806|LOUNGERS": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "11:00 PM",
+      "date": "20260806",
+      "cat": "LOUNGERS",
+      "price": "295.00",
+      "status": "3"
+    },
+    "PRHN|254276|20260806|EXECUTIVE": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "05:00 PM",
+      "date": "20260806",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "3"
+    },
+    "PRHN|254299|20260806|EXECUTIVE": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "08:00 PM",
+      "date": "20260806",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "3"
+    },
+    "PRHN|254278|20260806|EXECUTIVE": {
+      "venue": "Prasads Multiplex: Hyderabad",
+      "time": "11:00 PM",
+      "date": "20260806",
+      "cat": "EXECUTIVE",
+      "price": "295.00",
+      "status": "3"
+    },
+    "PVUM|27845|20260806|RECLINER": {
+      "venue": "PVR: Musarambagh, Hyderabad",
+      "time": "05:00 PM",
+      "date": "20260806",
+      "cat": "RECLINER",
+      "price": "350.00",
+      "status": "3"
+    },
+    "PVUM|27845|20260806|CLASSIC": {
+      "venue": "PVR: Musarambagh, Hyderabad",
+      "time": "05:00 PM",
+      "date": "20260806",
+      "cat": "CLASSIC",
+      "price": "295.00",
+      "status": "3"
+    },
+    "PVUM|27846|20260806|RECLINER": {
+      "venue": "PVR: Musarambagh, Hyderabad",
+      "time": "08:05 PM",
+      "date": "20260806",
+      "cat": "RECLINER",
+      "price": "350.00",
+      "status": "2"
+    },
+    "PVUM|27846|20260806|CLASSIC": {
+      "venue": "PVR: Musarambagh, Hyderabad",
+      "time": "08:05 PM",
+      "date": "20260806",
+      "cat": "CLASSIC",
+      "price": "295.00",
+      "status": "3"
+    },
+    "PVUM|27847|20260806|RECLINER": {
+      "venue": "PVR: Musarambagh, Hyderabad",
+      "time": "11:10 PM",
+      "date": "20260806",
+      "cat": "RECLINER",
+      "price": "350.00",
+      "status": "3"
+    },
+    "PVUM|27847|20260806|CLASSIC": {
+      "venue": "PVR: Musarambagh, Hyderabad",
+      "time": "11:10 PM",
+      "date": "20260806",
+      "cat": "CLASSIC",
+      "price": "295.00",
+      "status": "3"
+    }
+  },
   "dates": {
     "20260806": "AVAILABLE",
     "20260807": "AVAILABLE",
