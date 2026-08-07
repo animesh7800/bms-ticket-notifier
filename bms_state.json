@@ -7,6 +7,14 @@
       "cat": "SEMI RECLINER",
       "price": "350.00",
       "status": "0"
+    },
+    "AMBH|116117|20260808|PLATINUM": {
+      "venue": "AMB Cinemas: Gachibowli",
+      "time": "04:40 PM",
+      "date": "20260808",
+      "cat": "PLATINUM",
+      "price": "350.00",
+      "status": "0"
     }
   },
   "dates": {
