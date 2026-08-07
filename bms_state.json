@@ -1,20 +1,12 @@
 {
   "shows": {
-    "AMBH|116207|20260807|SEMI RECLINER": {
-      "venue": "AMB Cinemas: Gachibowli",
-      "time": "04:00 PM",
-      "date": "20260807",
-      "cat": "SEMI RECLINER",
-      "price": "350.00",
-      "status": "1"
-    },
     "AMBH|116078|20260807|PLATINUM": {
       "venue": "AMB Cinemas: Gachibowli",
       "time": "04:50 PM",
       "date": "20260807",
       "cat": "PLATINUM",
       "price": "350.00",
-      "status": "2"
+      "status": "1"
     },
     "AMBH|116079|20260807|PLATINUM": {
       "venue": "AMB Cinemas: Gachibowli",
@@ -38,13 +30,13 @@
       "date": "20260808",
       "cat": "SEMI RECLINER",
       "price": "350.00",
-      "status": "2"
+      "status": "1"
     }
   },
   "dates": {
     "20260807": "AVAILABLE",
-    "20260808": "BOOKABLE",
-    "20260809": "AVAILABLE",
+    "20260808": "AVAILABLE",
+    "20260809": "BOOKABLE",
     "20260810": "NOT_OPEN",
     "20260811": "NOT_OPEN",
     "20260812": "NOT_OPEN",
